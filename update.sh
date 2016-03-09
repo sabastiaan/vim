@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing plugins...\n" 
+echo "Installing plugins..." 
 git submodule init
 git submodule update
-echo "Installing plugins complete!\n"
+echo "Installing plugins complete!"
